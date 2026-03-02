@@ -1,0 +1,6 @@
+{
+  "external_api_base_url": "base_url_here (e.g. https://api.openai.com/v1)",
+  "external_api_key": "your_api_key_here (e.g. sk-***********)",
+  "web_model": "gpt-3.5-turbo",
+  "api_key": ""
+}
